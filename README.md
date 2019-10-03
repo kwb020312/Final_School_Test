@@ -24,6 +24,10 @@ backgroundImage 를 랜덤으로 만들어주는 사이트가 있음
     position:fixed;
     top:50%;
     transfrom: translateY(-50%);
+    //Parallax 효과
+
+    background-attachment:fixed;
+    overflow:hidden;
 }
 </style>
 ```
